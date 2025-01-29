@@ -73,6 +73,6 @@ Digital humanities platform built with a team of 6
 - 💼 LinkedIn: [linkedin.com/in/andryart10](https://linkedin.com/in/andryart10)
 
 ## 🎯 Currently
-- 🔍 Exploring new technologies in AI and web development
+- 🔍 Exploring new technologies in AI, web and mobile development
 - 👥 Leading tech initiatives through ACM club
 - 📚 Pursuing coursework in Robotics, Automation, and AI
