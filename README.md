@@ -9,25 +9,6 @@ I'm a Computer Science senior at Gettysburg College passionate about building im
 - 📊 Data Analytics Research Assistant
 - 👥 ACM Club President
 
-## 🏆 Recent Projects
-### Dermafyr - YCPHacks 2024 (2nd Place)
-A skin condition recognition platform using computer vision and AI
-- TensorFlow, Gemini API, Fast API, React.js
-- Trained on 19,000+ images for 20+ conditions
-- AI-powered skincare routine suggestions
-
-### Climately - HackHarvard 2024
-Chrome extension for smart calendar planning
-- Google Calendar API, Spring, Weather API, OpenAI API
-- Real-time weather integration
-- AI-powered planning suggestions
-
-### Kaleedo - Senior Capstone
-Digital humanities platform built with a team of 6
-- ASP.NET, MVC, MySQL, jQuery, Bootstrap
-- Implemented search, user invitation, and image management systems
-- Focus on constructivist, data-driven approach
-
 ## 🛠 Technical Skills
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
@@ -67,6 +48,24 @@ Digital humanities platform built with a team of 6
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
+## 🏆 Recent Projects
+### Dermafyr - YCPHacks 2024 (2nd Place)
+A skin condition recognition platform using computer vision and AI
+- TensorFlow, Gemini API, Fast API, React.js
+- Trained on 19,000+ images for 20+ conditions
+- AI-powered skincare routine suggestions
+
+### Climately - HackHarvard 2024
+Chrome extension for smart calendar planning
+- Google Calendar API, Spring, Weather API, OpenAI API
+- Real-time weather integration
+- AI-powered planning suggestions
+
+### Kaleedo - Senior Capstone
+Digital humanities platform built with a team of 6
+- ASP.NET, MVC, MySQL, jQuery, Bootstrap
+- Implemented search, user invitation, and image management systems
+- Focus on constructivist, data-driven approach
 
 ## 📫 Connect With Me
 - 📧 Email: andry1arthur@gmail.com
