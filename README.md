@@ -3,7 +3,7 @@
 I'm a Computer Science senior at Gettysburg College passionate about building impactful technology solutions. From AI-powered health platforms to smart calendar integrations, I love turning complex challenges into user-friendly applications.
 
 ## 🚀 About Me
-- 🎓 BS in Computer Science, Minor in Data Science @ Gettysburg College (2025)
+- 🎓 BS in Computer Science, Minor in Data Science @ [Gettysburg College](https://www.gettysburg.edu/) (2025)
 - 💻 Former Google STEP Intern
 - 👨‍🏫 CS & Data Science Teaching Assistant
 - 📊 Data Analytics Research Assistant
