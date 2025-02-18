@@ -75,4 +75,4 @@ Digital humanities platform built with a team of 6
 - 🔍 Exploring new technologies in AI, web and mobile development
 - 👥 Leading tech initiatives through ACM club
 - 📚 Pursuing coursework in Robotics, Automation, and AI
-- 🧑‍💻 Working on fun side projects (See my portfolio)
+- 🧑‍💻 Working on fun side projects ([See my portfolio](https://andry-arthur.github.io/redesigned-umbrella/))
