@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Andry Rakotonjanabelo
 
-Gettysburg CS '25 · MLH Top 50 '25 · Google STEP Alum '22 
-Bay Area-based AI/ML Engineer from Madagascar, building with precision and AI, turning real problems into polished, scalable solutions at the intersection of machine learning, mobile, and full-stack development. Departmental Honors in CS and nowhere near done.
+MLH Top 50 '25 · Bay Area 🌉 · Originally from Madagascar 🇲🇬
+
+AI/ML Engineer building with precision and AI — turning real-world problems into 
+polished, scalable solutions across machine learning, mobile, and full-stack. 
+Departmental Honors in CS and nowhere near done.
 
 ## 🚀 About Me
 - 🎓 BS in Computer Science, Minor in Data Science @ [Gettysburg College](https://www.gettysburg.edu/) (2025)
