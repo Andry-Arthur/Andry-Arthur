@@ -1,17 +1,16 @@
 # 👋 Hi, I'm Andry Rakotonjanabelo
 
-MLH Top 50 '25 · Bay Area 🌉 · Originally from Madagascar 🇲🇬
-
 AI/ML Engineer building with precision and AI — turning real-world problems into 
 polished, scalable solutions across machine learning, mobile, and full-stack. 
 Departmental Honors in CS and nowhere near done.
 
 ## 🚀 About Me
 - 🎓 BS in Computer Science, Minor in Data Science @ [Gettysburg College](https://www.gettysburg.edu/) (2025)
-- 💻 Former Google STEP Intern
-- 👨‍🏫 CS & Data Science Teaching Assistant
-- 📊 Data Analytics Research Assistant
-- 👥 ACM Club President
+- 💻 Former Google STEP Intern (2022)
+- 👨‍🏫 CS & Data Science Teaching Assistant (2021 - 2025)
+- 📊 Data Analytics Research Assistant (2024 - 2024)
+- 👥 ACM Club President (2024 - 2025)
+- 🏅 MLH Top 50 '25 
 
 ## 🛠 Technical Skills
 ### Languages
