@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Andry Rakotonjanabelo
 
-I'm a Computer Science senior at Gettysburg College passionate about building impactful technology solutions. From AI-powered health platforms to smart calendar integrations, I love turning complex challenges into user-friendly applications.
+Gettysburg CS '25 · MLH Top 50 '25 · Google STEP Alum '22 
+Bay Area-based AI/ML Engineer from Madagascar 🇲🇬, building with precision and AI, turning real problems into polished, scalable solutions at the intersection of machine learning, mobile, and full-stack development. Departmental Honors in CS and nowhere near done.
 
 ## 🚀 About Me
 - 🎓 BS in Computer Science, Minor in Data Science @ [Gettysburg College](https://www.gettysburg.edu/) (2025)
