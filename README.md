@@ -73,7 +73,7 @@ Digital humanities platform built with a team of 6
 
 ## 📫 Connect With Me
 - 📧 Email: andry1arthur@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/andryart10](https://linkedin.com/in/andryart10)
+- 💼 LinkedIn: [linkedin.com/in/andry-art](https://linkedin.com/in/andry-art)
 
 ## 🎯 Currently
 - 🔍 Exploring new technologies in AI, web and mobile development
