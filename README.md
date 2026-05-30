@@ -5,7 +5,7 @@ Departmental Honors in CS and nowhere near done.
 
 ## 🚀 About Me
 - 🎓 BS in Computer Science & Data Science @ [Gettysburg College](https://www.gettysburg.edu/) (2025)
-- 🎓 MBA in Artificial Intelligence & Business Analytics @ [Middlesex University Dubai](https://www.mdx.ac.ae/)
+- 🎓 MBA in Artificial Intelligence & Business Analytics @ [Middlesex University Dubai](https://www.mdx.ac.ae/) (2026 - 2027)
 - 📍 Based in San Francisco Bay Area, originally from Antananarivo, Madagascar
 - 💻 Former Google STEP Intern (2022)
 - 👨‍🏫 CS & Data Science Teaching Assistant (2021 - 2025)
