@@ -1,16 +1,15 @@
 # 👋 Hi, I'm Andry Rakotonjanabelo
 
-AI/ML Engineer building with precision and AI — turning real-world problems into 
-polished, scalable solutions across machine learning, mobile, and full-stack. 
+AI/ML Software Engineer building polished, scalable solutions across machine learning, mobile, and full-stack.
 Departmental Honors in CS and nowhere near done.
 
 ## 🚀 About Me
-- 🎓 BS in Computer Science, Minor in Data Science @ [Gettysburg College](https://www.gettysburg.edu/) (2025)
+- 🎓 BS in Computer Science & Data Science @ [Gettysburg College](https://www.gettysburg.edu/) (2025)
+- 📍 Based in San Francisco Bay Area, originally from Antananarivo, Madagascar
 - 💻 Former Google STEP Intern (2022)
 - 👨‍🏫 CS & Data Science Teaching Assistant (2021 - 2025)
-- 📊 Data Analytics Research Assistant (2024 - 2024)
 - 👥 ACM Club President (2024 - 2025)
-- 🏅 MLH Top 50 '25 
+- 🏅 [MLH Top 50 2025](https://top.mlh.com/2025/profiles/andry-rakotonjanabelo)
 
 ## 🛠 Technical Skills
 ### Languages
@@ -53,17 +52,15 @@ Departmental Honors in CS and nowhere near done.
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ## 🏆 Recent Projects
-### Dermafyr - YCPHacks 2024 (2nd Place)
-A skin condition recognition platform using computer vision and AI
-- TensorFlow, Gemini API, Fast API, React.js
-- Trained on 19,000+ images for 20+ conditions
-- AI-powered skincare routine suggestions
+### KeylessCampus - BitCamp 2025
+Smart RFID dorm access system built to remove physical key friction.
+- React, Java, Postgres, ESP32, C
+- Rapid hardware + software integration for real-world campus use
 
-### Climately - HackHarvard 2024
-Chrome extension for smart calendar planning
-- Google Calendar API, Spring, Weather API, OpenAI API
-- Real-time weather integration
-- AI-powered planning suggestions
+### SwiftApply - HenHacks 2025
+AI job application agent that automates repetitive application workflows.
+- React, Python, TypeScript, Spring, MySQL
+- Built to reduce application grind with guided automation
 
 ### Kaleedo - Senior Capstone
 Digital humanities platform built with a team of 6
@@ -71,12 +68,17 @@ Digital humanities platform built with a team of 6
 - Implemented search, user invitation, and image management systems
 - Focus on constructivist, data-driven approach
 
+### Dermafyr - YCPHacks 2024 Winner 🏆
+A skin condition recognition platform using computer vision and AI.
+- TensorFlow, Gemini API, FastAPI, React.js
+- AI-powered skincare routine suggestions
+
 ## 📫 Connect With Me
 - 📧 Email: andry1arthur@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/andry-art](https://linkedin.com/in/andry-art)
+- 💼 LinkedIn: [linkedin.com/in/andryart10](https://www.linkedin.com/in/andryart10/)
+- 🌐 Portfolio: [andry-arthur.github.io/redesigned-umbrella](https://andry-arthur.github.io/redesigned-umbrella/)
 
 ## 🎯 Currently
-- 🔍 Exploring new technologies in AI, web and mobile development
-- 👥 Leading tech initiatives through ACM club
-- 📚 Pursuing coursework in Robotics, Automation, and AI
-- 🧑‍💻 Working on fun side projects ([See my portfolio](https://andry-arthur.github.io/redesigned-umbrella/))
+- 🔍 Building AI/ML software across product, web, and mobile
+- 🧠 Expanding applied AI systems and automation workflows
+- 🧑‍💻 Shipping side projects and hackathon builds ([See my portfolio](https://andry-arthur.github.io/redesigned-umbrella/))
